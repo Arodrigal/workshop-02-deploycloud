@@ -1,7 +1,7 @@
 ---
 spring:
-  profiles:
-    active: europa
+  #profiles:
+  #  active: europa
   application:
     name: lab-3-client
   cloud:
